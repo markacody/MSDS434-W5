@@ -1,4 +1,5 @@
 from flask import Flask
+import google-cloud-bigquery as bq
 
 app = Flask(__name__)
 
