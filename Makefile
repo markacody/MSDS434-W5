@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.MSDS434-W5
+	python3 -m venv venv
 
 install:
 	pip install -r requirements.txt
