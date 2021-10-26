@@ -1,5 +1,6 @@
 from flask import Flask
 from google.cloud import bigquery
+# Before you run, login to gcloud: gcloud auth login
 
 app = Flask(__name__)
 

@@ -10,4 +10,7 @@ test:
 lint:
 	pylint --disable=R,C lib 
 
+run:
+	python main.py
+
 all: install lint test 
