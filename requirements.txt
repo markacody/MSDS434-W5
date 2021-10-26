@@ -1,5 +1,7 @@
 Flask==2.0.1
 gunicorn==20.1.0
+pandas
+pyarrow
 pylint
 pytest
 pytest-cov
